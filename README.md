@@ -1,10 +1,12 @@
 <h1 align="center">🦎 ⓖⓔⓒⓚⓞ ⓓⓔⓥ 🐸</h1>
 <p align="center"> <img src="https://i.pinimg.com/originals/99/ea/b5/99eab5bf1cd45b9899e6346c0141fb71.gif" alt="regecko" /> </p>
 
+<h2 align="center">
  ➤ 🌐 • WEB: HTML5, CSS3, JS (learn).
 
  ➤ 🎓 • CyberSec & DEV: Apprenticeship student.
-
+</h2>
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
