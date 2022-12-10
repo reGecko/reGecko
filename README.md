@@ -7,7 +7,6 @@
  ➤ 🎓 • CyberSec & DEV: Apprenticeship student.
 </h2>
  https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
