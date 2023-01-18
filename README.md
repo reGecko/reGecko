@@ -16,12 +16,15 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/javascript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
+ 
  <a href="https://developer.mozilla.org/fr/docs/Web/html">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
+ 
  <a href="https://developer.mozilla.org/fr/docs/Web/css">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
+ 
 </p>
 
 
