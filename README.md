@@ -9,7 +9,7 @@
 <p align="center">
 </p>
 
-<h2><strong>【 🕵️‍♂️ 】•❝＃Programming Languages❞</strong></h2>
+<h2><strong>【 🕵️‍♂️ 】• ❝＃𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜❞</strong></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js&perline=4&nbsp)](https://github.com/reGecko)
 
