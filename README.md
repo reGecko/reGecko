@@ -9,25 +9,10 @@
 <p align="center">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
 
-<p align="center">
-  <a href= "https://developer.mozilla.org/fr/docs/Web/javascript" >
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
- &nbsp;
- <a href="https://developer.mozilla.org/fr/docs/Web/html" >
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
- &nbsp;
- <a href="https://developer.mozilla.org/fr/docs/Web/css" >
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=js&perline=1&nbsp;)](https://developer.mozilla.org/fr/docs/Web/javascript) [![My Skills](https://skillicons.dev/icons?i=html&perline=1)](https://developer.mozilla.org/fr/docs/Web/html)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py&perline=1)](https://github.com/reGecko)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=regecko&show_icons=true&locale=en" alt="regecko" /> </p>
