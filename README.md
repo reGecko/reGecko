@@ -12,7 +12,7 @@
 <h3>Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py&perline=1)](https://github.com/reGecko)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py&perline=3&nbsp)](https://github.com/reGecko)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=regecko&show_icons=true&locale=en" alt="regecko" /> </p>
