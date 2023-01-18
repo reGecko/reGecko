@@ -1,11 +1,9 @@
 <h1 align="center">❝🕷️ Ⓖ Ⓚ Ⓞ  #  ⓇⓄⓄⓉ 🕷️❞</h1>
 <p align="center"> <img src="https://i.pinimg.com/originals/99/ea/b5/99eab5bf1cd45b9899e6346c0141fb71.gif" alt="regecko" /> </p>
 
-<h3 align="center">
- ➤ 🌐 • IT: student.
-</h3>
-<p align="center">
-</p>
+<h2><strong>【🌐】• ❝＃𝙰𝚋𝚘𝚞𝚝 𝙼𝚎❞</strong></h2>
+
+<p><strong>➤ Hello, this is gko on the keyboard. <br> I'm french student developer.</strong></p>
 
 <h2><strong>【🕵️‍♂️】• ❝＃𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜❞</strong></h2>
 
