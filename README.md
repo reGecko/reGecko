@@ -4,9 +4,9 @@
 <h2><strong>【🌐】• ❝＃𝙰𝚋𝚘𝚞𝚝 𝙼𝚎❞</strong></h2>
 
 <h3>
-  <strong>
-  🔧 • ➤ French student developer. <br>
-  🛰️ • ➤ I practice CyberSec activities. (ethical only).<br>
+  <strong><br>
+  🔧 • ➤ French student developer. <br><br>
+  🛰️ • ➤ I practice CyberSec activities. (ethical only).<br><br>
   ✎ • ➤ I learn photo and video editing with AE, PR, PS.
   </strong>
 </h3>
