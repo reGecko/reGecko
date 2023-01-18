@@ -3,7 +3,7 @@
 
 <h2><strong>【🌐】• ❝＃𝙰𝚋𝚘𝚞𝚝 𝙼𝚎❞</strong></h2>
 
-<p><strong>➤ Hello, this is gko on the keyboard, i'm french student developer.</strong></p>
+<h3><strong>【☰】➤ French student developer. <br>【☰】➤ I practice CyberSec activities. (ethical only)<br>【☰】➤ I learn photo and video editing with AE, PR, PS.</strong></h3>
 
 <h2><strong>【🕵️‍♂️】• ❝＃𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜❞</strong></h2>
 
