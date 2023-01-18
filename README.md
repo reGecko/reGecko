@@ -11,7 +11,7 @@
 
 <style =text-decoration: underline overline #FF3028;
 <h2><strong>Languages and Tools:</strong></h2>
-</style>
+>
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js&perline=4&nbsp)](https://github.com/reGecko)
 
