@@ -1,5 +1,5 @@
 <h1 align="center">❝🕷️ Ⓖ Ⓚ Ⓞ  #  ⓇⓄⓄⓉ 🕷️❞</h1>
-<p align="center"> <img src="https://i.pinimg.com/originals/99/ea/b5/99eab5bf1cd45b9899e6346c0141fb71.gif" alt="regecko" /> </p>
+<a align="center" href="https://zupimages.net/viewer.php?id=23/03/an8m.gif"><img src="https://zupimages.net/up/23/03/an8m.gif" /></a>
 
 <h2><strong>【🌐】• ❝＃𝙰𝚋𝚘𝚞𝚝 𝙼𝚎❞</strong></h2>
 
