@@ -12,7 +12,17 @@
 <h3 align="center">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+<p align="center">
+  <a href="https://developer.mozilla.org/fr/docs/Web/javascript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+ <a href="https://developer.mozilla.org/fr/docs/Web/html">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+ <a href="https://developer.mozilla.org/fr/docs/Web/css">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
