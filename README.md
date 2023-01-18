@@ -7,7 +7,7 @@
   <strong><br>
   🔧 • ➤ French student developer. <br><br>
   🛰️ • ➤ I practice CyberSec activities. (ethical only).<br><br>
-  ✎ • ➤ I learn photo and video editing with AE, PR, PS.
+  ✎ • ➤ I learn photo and video editing with AE, PR, PS.<br>
   </strong>
 </h3>
 
