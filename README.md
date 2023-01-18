@@ -9,10 +9,9 @@
 <p align="center">
 </p>
 
-<h3>Languages and Tools:</h3>
+<h3><strong>Languages and Tools:</strong></h3>
 
-
-[![My Skills](https://skillicons.dev/icons?i=py, html,css,js&perline=4&nbsp)](https://github.com/reGecko)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js&perline=4&nbsp)](https://github.com/reGecko)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=regecko&show_icons=true&locale=en" alt="regecko" /> </p>
