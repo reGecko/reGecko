@@ -13,16 +13,16 @@
 
 
 <p align="center">
-  <a href="https://developer.mozilla.org/fr/docs/Web/javascript">
-    <img src="https://skillicons.dev/icons?i=js" border=no/>
+  <a href= "https://developer.mozilla.org/fr/docs/Web/javascript" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
  &nbsp;
- <a href="https://developer.mozilla.org/fr/docs/Web/html">
-    <img src="https://skillicons.dev/icons?i=html" border=no/>
+ <a href="https://developer.mozilla.org/fr/docs/Web/html" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
  &nbsp;
- <a href="https://developer.mozilla.org/fr/docs/Web/css">
-    <img src="https://skillicons.dev/icons?i=css" border=no/>
+ <a href="https://developer.mozilla.org/fr/docs/Web/css" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
  
 </p>
