@@ -9,9 +9,11 @@
 <p align="center">
 </p>
 
-<style =text-decoration: underline overline #FF3028;
+<style type="text/css">
+ h2 text-decoration: underline overline #FF3028;
+</style>
+
 <h2><strong>Languages and Tools:</strong></h2>
->
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js&perline=4&nbsp)](https://github.com/reGecko)
 
