@@ -12,7 +12,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev), [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev), [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
