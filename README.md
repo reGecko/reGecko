@@ -10,8 +10,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/fr/docs/Web/JavaScript) 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/fr/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=regecko&show_icons=true&locale=en" alt="regecko" /> </p>
