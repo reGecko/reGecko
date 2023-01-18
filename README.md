@@ -13,11 +13,11 @@
 
 <h2><strong>【✒️】• ❝＃𝙰𝚍𝚘𝚋𝚎 𝚂𝚘𝚏𝚝𝚆𝚊𝚛𝚎❞</strong></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ps, ae&perline=2&nbsp)](https://github.com/reGecko)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr&perline=2&nbsp)](https://github.com/reGecko)
 
 <h2><strong>【⚙️】• ❝＃𝚃𝚘𝚘𝚕𝚜❞</strong></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode, idea, github, gcp&perline=4&nbsp)](https://github.com/reGecko)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,gcp&perline=4&nbsp)](https://github.com/reGecko)
 
 <h2><strong>【🕴️】• ❝＃𝙵𝚘𝚛 𝙳𝙼❞</strong></h2>
 
