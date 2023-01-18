@@ -26,7 +26,8 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://developer.mozilla.org/fr/docs/Web/javascript) [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://developer.mozilla.org/fr/docs/Web/html)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=1&nbsp;)](https://developer.mozilla.org/fr/docs/Web/javascript) [![My Skills](https://skillicons.dev/icons?i=html&perline=1)](https://developer.mozilla.org/fr/docs/Web/html)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=regecko&show_icons=true&locale=en" alt="regecko" /> </p>
