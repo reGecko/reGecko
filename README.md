@@ -17,7 +17,7 @@
 
 <h2><strong>【⚙️】• ❝＃𝚃𝚘𝚘𝚕𝚜❞</strong></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=4&nbsp)](https://github.com/reGecko)
+[![My Skills](https://skillicons.dev/icons?i=vscode, idea, github, gcp&perline=4&nbsp)](https://github.com/reGecko)
 
 <h2><strong>【🕴️】• ❝＃𝙵𝚘𝚛 𝙳𝙼❞</strong></h2>
 
