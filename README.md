@@ -14,3 +14,5 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=regecko&label=Profile%20views&color=0e75b6&style=flat" alt="regecko" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=regecko&show_icons=true&locale=en" alt="regecko" /> </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
